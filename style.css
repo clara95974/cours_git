@@ -107,7 +107,7 @@ nav li
 nav a
 {
     font-size: 1.3em;
-    color: #181818;
+    color: blue;
     padding-bottom: 3px;
     text-decoration: none;
 }
@@ -143,7 +143,7 @@ nav a:hover
     background-color: rgba(24,24,24,0.8);
     color: white;
     font-size: 0.8em;
-    
+
 }
 
 .bouton_rouge
